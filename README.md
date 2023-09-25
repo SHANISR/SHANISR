@@ -1,4 +1,4 @@
-l'm SHANI S R
+
  I’m currently doing my Btech in EEE at Government Engineering college Barton Hill
 
 <!---
