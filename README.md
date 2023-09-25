@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SHANISR
-- 🌱 I’m currently doing my Btech in EEE at Government Engineering college Barton Hill
+l'm SHANI S R
+ I’m currently doing my Btech in EEE at Government Engineering college Barton Hill
 
 <!---
 SHANISR/SHANISR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
